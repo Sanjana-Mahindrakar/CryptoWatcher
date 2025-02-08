@@ -1,0 +1,32 @@
+.main{
+    margin-top: 10%;
+}
+.mainClick{
+    margin-top: 2%;
+}
+body{
+    background-color: rgba(41, 11, 36, 0.854);
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3GuVaX1DJ-ivQ0oTLiFf7KgYPOgK0dOnvdA&s');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.fix{
+    border:2px solid #f5f525;
+    border-radius: 25px;
+    border-width: 0.3rem;
+    background-color:rgb(255, 166, 0) ;
+    padding: 10px;
+}
+h1{
+    color:#e5e5e5;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+}
+
+h4{
+    color: #e5e5e5;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: italic;
+}
